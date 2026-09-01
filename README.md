@@ -171,8 +171,4 @@ text
 └──────────────────────────────────────────────────────────────┘
 ```
 
----
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:082f49,45:0f172a,100:020617&animation=twinkling" width="100%" />
