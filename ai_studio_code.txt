@@ -1,0 +1,55 @@
+<div align="center">
+  <!-- Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0369a1&height=220&section=header&text=Medhansh%20Mittal&fontSize=48&fontColor=7dd3fc&animation=twinkling&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20ML%20%26%20Backend%20Engineer&descFontSize=19&descAlignY=68&descAlign=50" width="100%" alt="Header Banner"/>
+
+  <!-- Typing SVG Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&multiline=false&width=650&lines=Full-Stack+%26+Mobile+App+Developer;Smart+India+Hackathon+(SIH)+National+Finalist;3-Star+Coder+on+CodeChef+(300%2B+DSA+Solved);Architecting+High-Performance+Backends+%26+AI+Pipelines" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Badges / Open to work & Counter -->
+  <a href="mailto:medhanshofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Open_To_Work-Full--Time_%2F_Internships-7dd3fc?style=for-the-badge&labelColor=0f172a&color=38bdf8" alt="Open to Work" />
+  </a>
+  <a href="https://github.com/medhanshcodezz">
+    <img src="https://img.shields.io/github/followers/medhanshcodezz?label=Followers&style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=0f172a&color=38bdf8" alt="GitHub Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=medhanshcodezz&label=Profile%20Views&color=38bdf8&style=for-the-badge&base=100" alt="Profile Views" />
+
+</div>
+
+<br/>
+
+### 👨‍💻 `about_me.ts`
+
+```typescript
+const medhansh: Developer = {
+  name: "Medhansh Mittal",
+  title: "Full-Stack & Mobile Developer | ML & Backend Enthusiast",
+  education: {
+    degree: "B.Tech in Computer Science and Engineering",
+    institution: "Lovely Professional University",
+    timeline: "2022 - 2026"
+  },
+  stack: {
+    primaryLanguages: ["C++", "C", "Python", "Java", "JavaScript", "SQL", "Kotlin"],
+    backend: ["FastAPI", "Flask", "Django", "Streamlit", "RESTful APIs", "OAuth2"],
+    mobile: ["Android SDK", "Java", "Kotlin", "Firebase"],
+    ai_ml: ["Scikit-learn", "Pandas", "NumPy", "OpenAI API", "Hugging Face"],
+    databases_caching: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Firebase Realtime DB"],
+    devops_tools: ["Git", "GitHub", "Docker", "Postman", "Linux"]
+  },
+  achievements: [
+    "Smart India Hackathon (SIH) National Finalist (Top 1% of 50,000+ national participants)",
+    "3-Star Coder on CodeChef (Solved 300+ Data Structures & Algorithms problems)"
+  ],
+  launchedProjects: [
+    "TransRoute: Native Real-time Transit Navigation System",
+    "HealthBud: Predictive Healthcare Alert Engine & REST API",
+    "LitLore: Generative AI Dynamic Narrative Engine"
+  ],
+  status: "Architecting scalable backend services and responsive mobile apps",
+  openTo: ["Software Engineering Roles", "Backend / ML Internships", "Open Source Collaboration"]
+};
