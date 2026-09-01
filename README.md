@@ -147,7 +147,7 @@ Generative AI narrative engine using OpenAI APIs and Hugging Face Transformers w
 
 ## `> experience`
 
-```text
+text
 ┌─ Freelance Software Engineer ────────────────────────────────┐
 │ Jan 2024 → Present                                           │
 │                                                              │
@@ -206,25 +206,7 @@ Generative AI narrative engine using OpenAI APIs and Hugging Face Transformers w
 
 </div>
 
----
 
-## `> trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=medhanshcodezz&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
-## `> contribution_matrix`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=medhanshcodezz&bg_color=020617&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
 
 ---
 
