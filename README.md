@@ -34,40 +34,6 @@
 
 ## `> whoami`
 
-```typescript
-const medhansh = {
-  identity: {
-    name: "Medhansh Mittal",
-    role: "Software Engineer",
-    focus: ["Full-Stack Development", "Mobile Development", "Machine Learning"]
-  },
-
-  engineering: {
-    languages: ["C++", "C", "Python", "Java", "JavaScript", "SQL", "Kotlin"],
-    frameworks: ["FastAPI", "Flask", "Django", "Streamlit", "Android SDK"],
-    dataAndML: ["Scikit-learn", "Pandas", "NumPy", "MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"],
-    tooling: ["Git", "GitHub", "Docker", "Postman", "Linux", "Hugging Face", "OpenAI API"]
-  },
-
-  shipped: [
-    "10+ client-commissioned web & Android applications",
-    "Real-time transit tracking system",
-    "Predictive healthcare alert engine",
-    "Generative AI narrative engine"
-  ],
-
-  achievements: [
-    "Smart India Hackathon — National Finalist",
-    "Top 1% of 50,000+ participants",
-    "CodeChef — 3-Star Coder",
-    "300+ DSA problems solved"
-  ],
-
-  status: "Building, learning and shipping",
-  openTo: "Software Engineering opportunities"
-};
-```
-
 <div align="center">
 
 ### `SYSTEM STATUS`
