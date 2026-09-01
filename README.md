@@ -18,21 +18,8 @@
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║  > whoami                                                           ║
-║                                                                      ║
-║  medhansh@github:~$ software-engineer                               ║
-║  medhansh@github:~$ build --production                              ║
-║  medhansh@github:~$ status                                          ║
-║                                                                      ║
-║  [ ONLINE ]  Backend • Mobile • Machine Learning • APIs              ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
 
 </div>
-
-## `> whoami`
 
 <div align="center">
 
